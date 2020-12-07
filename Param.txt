@@ -20,5 +20,5 @@ The third stage of PSLV is a solid rocket motor that provides the upper stages h
 
 Fuel		: HTPB
 
-Max. Thrust	: 240 kN
+Max. Thrust	: 252 kN
 
