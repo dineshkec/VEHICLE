@@ -14,3 +14,11 @@ Fuel		: MMH + MON
 
 Max. Thrust	: 7.6 x 2 kN
 
+Third Stage: PS3
+
+The third stage of PSLV is a solid rocket motor that provides the upper stages high thrust after the atmospheric phase of the launch.
+
+Fuel		: HTPB
+
+Max. Thrust	: 240 kN
+
